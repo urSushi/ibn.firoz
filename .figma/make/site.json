@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a personalized interactive portfolio with smooth animations and theme toggles, designed to highlight UI/UX design skills and personal branding.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
